@@ -1,6 +1,8 @@
 # Quantum Amplitude Estimation for Value at Risk
 
 ## Description
+“Quantum algorithms won’t eliminate uncertainty; but they might finally help us measure it better.” – State Street × Classiq Team
+
 This work is performed by (Asymptotically) Free Qubits for the [iQuHACK2026 State Street x Classiq Challenge](https://github.com/iQuHACK/2026-State-Street-Classiq/blob/main/README.md). The Value at Risk (VaR) is calculated using classical Monte Carlo and different quantum methods, including the conventional Quantum Amplitude Estimation (QAE), Iterative Quantum Amplitude Estimation (IQAE), and an adaptive, IQAE-inspired method.
 
 1. Classical simulations are done for the Gaussian distribution using "Classical_Tasks.ipynb", and for the fat-tail.
